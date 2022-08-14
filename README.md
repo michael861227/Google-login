@@ -1,6 +1,8 @@
 # Google Login
 A simple homepage using passport-google-oauth to get your profile thumbnail
 
+![Image](./Overview.png)
+
 ## Getting Started
 ### prerequisite
 - Use the command: `npm init` to setup the requirement in this project
